@@ -1,0 +1,16 @@
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+
+// Стили для файла с примером HTML-фрагмента
+@import './example';
+
+.input {
+  margin: 10px;
+  background-color: rgb(201, 132, 132);
+}
+
+.country-card {
+  margin: 10px;
+}
